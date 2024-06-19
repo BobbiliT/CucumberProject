@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Cucumber" time="0.164" tests="1" skipped="0" failures="0" errors="0">
+<testcase classname="school student information" name="open school maintain site" time="0.022">
+<system-out><![CDATA[
+Given take student details from there parents...............................passed
+When now enter the student details one by one...............................passed
+Then filled student details successfully....................................passed
+]]></system-out>
+</testcase>
+</testsuite>
